@@ -55,8 +55,19 @@ de décisions dans une communauté. 
 
  
 
-Explications 
--------------
+Explications
+------------
+
+[Quels sont les différents algorithmes de consensus
+?](https://cryptoast.fr/liste-differents-consensus-crypto-monnaies-blockchain/)
+
+Cet article présente les nombreux algorithmes de consensus qui ont été
+implémentés pour le déploiement de différentes blockchain. Les informations à
+propos de ces algorithmes contiennent : un résumé du fonctionnement, avantages,
+inconvénients.  
+*Cryptoast, 01/19, Français*
+
+ 
 
 [Comment PoS, PoW, hashing et blockchain fonctionnent
 ensemble](https://medium.com/@robertgreenfieldiv/explaining-proof-of-stake-f1eae6feb26f) 
