@@ -384,7 +384,16 @@ utilisation quotidienne, des Token disponibles sur le contrat rattaché. 
 <https://eprint.iacr.org/2017/375.pdf> 
 
 Do you need a blockchain ? Papier très complet exposant les propriétés de la
-blockchain et de leurs utilisations dans un projet. 
+blockchain et de leurs utilisations dans un projet.
+
+ 
+
+[https://whattomine.com/](https://whattomine.com/)
+
+Si vous avez envie de vous lancer dans le minage de cryptomonnaies, ce site est
+pour vous. Il permet d’évaluer votre rentabilité dans les différentes
+cryptommonnaies en fonction de la puissance de calcul disponible pour cela.  
+*WhatToMine*
 
  
 
