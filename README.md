@@ -11,8 +11,7 @@ anglaise](https://medium.com/datadriveninvestor/crypto-vocabulary-expanded-76131
 Une grande partie des termes français utilisés et leur signification est
 exposée. Les termes se rapportent surtout aux cryptomonnaies, au trading et à la
 blockchain plus généralement.   
-*Journal du Coin, 12/18, Français - Medium Data Driven Investor, 12/18,
-Anglais *
+*Journal du Coin, 12/18, Français - Medium Data Driven Investor, 12/18, Anglais*
 
  
 
@@ -22,7 +21,7 @@ Anglais *
 L’auteur de l’article reprend plusieurs définitions données sur Internet par
 Google ou IBM. Il se questionne sur la définition à donner à la blockchain, si
 c’est possible de lui donner une définition.   
-*The Verge, 03/18, Anglais *
+*The Verge, 03/18, Anglais*
 
  
 
@@ -32,7 +31,7 @@ c’est possible de lui donner une définition. 
 L’auteur de l’article de ce blog repart aux bases de Bitcoin et de
 son Whitepaper pour trouver d’où provient ce terme. Est-il associé à la
 blockchain depuis le départ ?    
-*Tony Sheng blog personnel, 09/18, Anglais *
+*Tony Sheng blog personnel, 09/18, Anglais*
 
  
 
@@ -41,7 +40,7 @@ blockchain depuis le départ ?  
 
 Question posée sur Quora, la personne qui répond fait un parallèle avec
 l’agriculture et le rendement des sols.   
-*Quora, 06/18, Anglais *
+*Quora, 06/18, Anglais*
 
  
 
@@ -51,7 +50,7 @@ blockchains](https://journalducoin.com/altcoins/gouvernance-blockchains-vitalik-
 Résumé de deux articles en anglais publiés par Vitalik Butterin (Ethereum)
 et Dan Larimer (EOS) dans lequel leurs visions s’affrontent à propos de la prise
 de décisions dans une communauté.   
-*Journal du Coin, 12/18, Français *
+*Journal du Coin, 12/18, Français*
 
  
 
@@ -75,7 +74,7 @@ ensemble](https://medium.com/@robertgreenfieldiv/explaining-proof-of-stake-f1eae
 Article abordable qui reprend les bases de la blockchain ainsi que
 du hashing pour finir par une brève explication de comment fonctionnent les
 consensus Proof of Stake et Proof of Work.   
-*Medium Robert Greenfield IV, 07/17, Anglais *
+*Medium Robert Greenfield IV, 07/17, Anglais*
 
  
 
@@ -84,7 +83,7 @@ consensus Proof of Stake et Proof of Work. 
 
 Explications autour des termes Hard fork et soft fork et pourquoi cela fait
 partie intégrante du paysage de la blockchain.   
-*Medium Crypto Suss, 09/18, Anglais  *
+*Medium Crypto Suss, 09/18, Anglais*
 
  
 
@@ -92,7 +91,7 @@ partie intégrante du paysage de la blockchain. 
 ERC20](https://www.ethereum-france.com/qu-est-ce-qu-un-token-erc20/) 
 
 Explication sur le standard de token ERC20 disponible sur Ethereum.   
-*Ethereum France, 01/18, Français *
+*Ethereum France, 01/18, Français*
 
  
 
@@ -100,7 +99,7 @@ Explication sur le standard de token ERC20 disponible sur Ethereum. 
 ERC721](https://medium.com/@bazire.bertrand/pr%C3%A9sentation-du-standard-erc-721-et-de-son-utilisation-fcd4a3661f2c)  
 
 Explication sur le standard de token ERC721 disponible Ethereum.   
-*Medium Bertrand Bazire, 07/18, Français *
+*Medium Bertrand Bazire, 07/18, Français*
 
  
 
@@ -108,7 +107,7 @@ Explication sur le standard de token ERC721 disponible Ethereum. 
 numérique](https://www.ethereum-france.com/qu-est-ce-qu-une-cryptomonnaie-token-bitcoin-ether-gnt-gno-dgd-plu-rep-rlc/) 
 
 Explications sur les termes et le fonctionnement des cryptomonnaies.   
-*Ethereum France, 06/17, Français *
+*Ethereum France, 06/17, Français*
 
  
 
@@ -117,7 +116,7 @@ blockchain](https://www.cryptoencyclopedie.com/single-post/ou-est-stockee-la-blo
 
 Explications basiques sur les différents types de noeuds dans un réseau et ce
 qu’ils stockent.   
-*CryptoeEncyclopédie, 09/17, Français *
+*CryptoeEncyclopédie, 09/17, Français*
 
  
 
@@ -128,7 +127,7 @@ Vitalik Butterin a développé l’idée d’un trilemme dans la blockchain. L
 explique complètement le sujet en expliquant les composantes du trilemme, en
 quoi ces composantes sont importantes, comment on peut essayer de le résoudre,
 et des exemples de tout ça.   
-*Coin Bureau, 05/18, Anglais *
+*Coin Bureau, 05/18, Anglais*
 
  
 
@@ -143,7 +142,7 @@ expose des questions à se poser lors du lancement d’un projet à propos de
 l’utilité d’employer une blockchain. Néanmoins celles-ci sont à relativiser
 quant à leur conclusion, la blockchain peut avoir des utilités bien précises en
 tant que blockchain privée.   
-*Les Echos, 01/18, Français *
+*Les Echos, 01/18, Français*
 
  
 
@@ -154,7 +153,7 @@ Article complet exposant les différences fondamentales de vision entre des
 blockchains publiques et privées. Il prend bien en compte le fait que les
 blockchain peuvent également être ouvertes ou fermées. Tout cela est une
 question de vision, d’objectifs et de use case.   
-*Medium Coin Monks, 12/18 *
+*Medium Coin Monks, 12/18, Anglais*
 
  
 
@@ -166,7 +165,7 @@ sur Ethereum & Consensys](https://journalducoin.com/altcoins/33-statistiques-
 
 Consensys est une entreprise très importante dans la communauté Ethereum et a
 publié une liste de 33 statistiques.   
-*Journal du Coin, 07/18, Français *
+*Journal du Coin, 07/18, Français*
 
  
 
@@ -175,7 +174,7 @@ publié une liste de 33 statistiques. 
 
 Un CTO a réalisé une longue série de statistiques à propos de l’évolution de
 Bitcoin en 2018 et de son état actuel.   
-*Medium Jameson Lopp, 01/19, Anglais *
+*Medium Jameson Lopp, 01/19, Anglais*
 
 Développement 
 ==============
@@ -197,7 +196,7 @@ un noeud complet](https://journalducoin.com/bitcoin/bitcoin-installer-noeud-co
 
 Tuto et explications sur l’installation d’un noeud complet pour participer au
 réseau Bitcoin.   
-*Journal du Coin, 12/18, Français *
+*Journal du Coin, 12/18, Français*
 
  
 
@@ -211,7 +210,7 @@ C’est un cours complet qui aborde les principes de la blockchain, les possible
 use cases, les problématiques de la décentralisation et le développement
 sur Ethereum en Javascript. Ce n’est vraiment pas rédigé, ce sont des notes en
 points par points.   
-*Axhause Github.io, Français *
+*Axhause Github.io, Français*
 
  
 
@@ -221,7 +220,7 @@ en Solidity](https://medium.com/coinmonks/storage-vs-memory-in-solidity-8251847
 Solidity est un langage de programmation de Smart Contract. Memory et Storage
 sont deux types de stockage disponibles dans le langage, leur utilisation est
 bien précise.   
-*Medium Coin Monks, 02/18, Anglais *
+*Medium Coin Monks, 02/18, Anglais*
 
  
 
@@ -230,7 +229,7 @@ smart contract](https://www.utocat.com/utocat-et-inria-font-avancer-la-recherch
 
 Utocat, en partenariat avec l’INRIA Lille, a développé un outil de test de
 smart contracts. L’outil est expliqué ici et disponible à l’utilisation.   
-*Utocat, Français *
+*Utocat, Français*
 
  
 
@@ -239,7 +238,7 @@ Windows](https://medium.com/@solangegueiros/https-medium-com-solangegueiros-sett
 
 Tuto et explications pour déployer une blockchain privée et un
 réseau Ethereum sur un Windows.   
-*Medium Solange Gueiros, 09/17, Anglais *
+*Medium Solange Gueiros, 09/17, Anglais*
 
  
 
@@ -249,7 +248,7 @@ utilisation](https://medium.com/taipei-ethereum-meetup/beginners-guide-to-ethere
 Guide de débutant à propos du genesis file, JSON déterminant le block 0 de sa
 blockchain privée, sur la façon de l’utiliser pour pouvoir déployer sa
 blockchain privée.   
-*Medium Lee Ting Ming, 06/17, Anglais *
+*Medium Lee Ting Ming, 06/17, Anglais*
 
  
 
@@ -258,7 +257,7 @@ minage](https://journalducoin.com/altcoins/ethereum-casper-pour-decentraliser-le
 
 Article parlant de Casper, le projet de Ethereum pour introduire la Proof
 of Stake dans le réseau en remplacement du Proof of Work.   
-*Journal du Coin, 09/18, Français *
+*Journal du Coin, 09/18, Français*
 
  
 
@@ -266,7 +265,7 @@ of Stake dans le réseau en remplacement du Proof of Work. 
 
 Sur Ethereum, le gas sert à rémunérer les mineurs qui exécutent les
 smart contract. C’est possible de dire que c’est le carburant de ceux-ci.   
-*Bloc Geeks, Anglais *
+*Bloc Geeks, Anglais*
 
  
 
@@ -278,7 +277,7 @@ ce qu'une dApp 1](https://ethereum.stackexchange.com/questions/383/what-is-a-
 
 Venant d’une question sur StackExchange, on a une définition de ce terme. La
 base du concept.   
-*Ethereum StackExchange, 01/16, Anglais *
+*Ethereum StackExchange, 01/16, Anglais*
 
  
 
@@ -286,7 +285,7 @@ base du concept. 
 ce qu'une dApp 2](https://www.coindesk.com/information/what-is-a-decentralized-application-dapp)  
 
 Article expliquant le concept d’application décentralisée.   
-*Coin Desk, Anglais *
+*Coin Desk, Anglais*
 
  
 
@@ -294,7 +293,7 @@ Article expliquant le concept d’application décentralisée. 
 Oracle](https://medium.com/@jesus_notchrist/blockchain-oracles-af3b216bed6b) 
 
 Bases à propos de l’utilisation des oracles dans le cadre d’un smart-contract.   
-*Medium Jesus Not Christ, 10/18, Anglais  *
+*Medium Jesus Not Christ, 10/18, Anglais*
 
  
 
@@ -303,7 +302,7 @@ utilisation](https://ethereum.stackexchange.com/questions/375/what-is-swarm-and-
 
 Pour être totalement décentralisée, une application doit avoir également
 décentralisé son front. Swarm est une des solutions pour ça.   
-*Ethereum StackExchange, 01/16, Anglais *
+*Ethereum StackExchange, 01/16, Anglais*
 
  
 
@@ -312,7 +311,7 @@ réseau Ethereum](https://media.consensys.net/why-infura-is-the-secret-weapon-o
 
 C’est un outil important dans le développement et l’interaction avec la
 blockchain Ethereum.   
-*Consensys, 04/18, Anglais *
+*Consensys, 04/18, Anglais*
 
  
 
@@ -320,7 +319,7 @@ blockchain Ethereum. 
 à Ethereum avec Infura](https://medium.com/coinmonks/rpc-access-to-ethereum-with-infura-318854b7732f) 
 
 Tuto et explications sur l’utilisation de Infura pour accéder à Ethereum.   
-*Medium Coin Monks, 07/18, Anglais *
+*Medium Coin Monks, 07/18, Anglais*
 
  
 
@@ -333,7 +332,7 @@ CNIL](https://www.cnil.fr/fr/blockchain-et-rgpd-quelles-solutions-pour-un-usage-
 La CNIL s’est prononcé sur la question de la RGPD et de son application dans un
 contexte décentralisé où modifier ou supprimer une donnée est impossible. Elle
 propose des solutions pour pouvoir la respecter.   
-*CNIL, 09/18, Français *
+*CNIL, 09/18, Français*
 
  
 
@@ -346,7 +345,7 @@ de Tangle](https://medium.com/iota-et-tangle/presentation-iota-tangle-2d6e63e3a
 IOTA est un Distributed Ledger Technology mais n’est pas une blockchain, il
 repose sur l’utilisation d’un Tangle. C’est une présentation de son concept et
 de ses propriétés.   
-*Medium Stéphanie Lehuger, 08/17, Français *
+*Medium Stéphanie Lehuger, 08/17, Français*
 
  
 
@@ -357,7 +356,7 @@ Un DAG est un Directed Acyclic Graph, un diagramme mathématique de
 représentation des données. C’est un article plutôt pro-techno-IOTA mais qui ne
 masque pas les problèmes que cela comporte. Néanmoins, le potentiel est
 clairement exposé et relativé.   
-*Medium Good Audience, 09/18, Anglais *
+*Medium Good Audience, 09/18, Anglais*
 
  
 
@@ -370,7 +369,7 @@ Nice Hash est une entreprise qui vend de la puissance de calcul qui peut être
 utilisée pour miner une blockchain. Cette liste de blockchain comporte des
 informations sur le hashrate, le coût d’une attaque à l’heure en achetant assez
 de puissance de calcul, etc…   
-*Nice Hash *
+*Nice Hash*
 
  
 
@@ -378,7 +377,7 @@ de puissance de calcul, etc… 
 
 Liste des dApp disponibles classées en thèmes, il y a des informations sur leur
 utilisation quotidienne, des Token disponibles sur le contrat rattaché.   
-*Coin Telegraph *
+*Coin Telegraph*
 
  
 
@@ -397,7 +396,7 @@ blockchain](https://usbeketrica.com/article/les-5-gros-problemes-de-la-blockchai
 
 Pour que la démocratisation de la blockchain se fasse il va falloir résoudre
 plusieurs problèmes.   
-*Usbek & Rica Blocs News, 09/18, Français *
+*Usbek & Rica Blocs News, 09/18, Français*
 
  
 
@@ -406,7 +405,7 @@ Brother](https://medium.com/blocsnews/la-blockchain-aux-mains-de-big-brother-499
 
 Article expliquant les problématiques si celle-ci était utilisée à des fins
 mauvaises pour le contrôle des populations par exemple.   
-*Medium Blocs News, 07/18, Français *
+*Medium Blocs News, 07/18, Français*
 
  
 
@@ -416,7 +415,7 @@ démocratie](https://medium.com/@polysvote/how-blockchain-based-online-elections
 Article expliquant en quoi la blockchain pourrait être une solution pour faire
 voter la population lors d’élections. L’auteur propose un use case pour
 illustrer ses propos.   
-*Medium Polys, 02/18, Anglais *
+*Medium Polys, 02/18, Anglais*
 
  
 
@@ -425,7 +424,7 @@ démocratie](https://medium.com/blocsnews/non-la-blockchain-ne-sauvera-pas-la-d%
 
 Cet article est une réponse au précédent et pointe des problèmes non soulevés
 qui font que voter avec une blockchain pourrait poser des problèmes.   
-*Medium Blocs News, 11/18, Français *
+*Medium Blocs News, 11/18, Français*
 
  
 
@@ -434,7 +433,7 @@ qui font que voter avec une blockchain pourrait poser des problèmes. 
 
 Une idée d’une personne partant du constat de fraudes lors d’élections, propose
 un use case pour solutionner ces problèmes de fraudes.   
-*Coin Journal, 11/18, Anglais *
+*Coin Journal, 11/18, Anglais*
 
  
 
@@ -446,7 +445,7 @@ TEDx 
 Ce TEDx s’est déroulé à Lille avec une présentation de William O’Rorke, un
 avocat spécialisé dans la blockchain. “Blockchain, l’utopie pour combien de
 temps ?”.   
-*TEDx William O’Rorke, 07/18, Français *
+*TEDx William O’Rorke, 07/18, Français*
 
  
 
@@ -462,7 +461,7 @@ blockchain](https://www.capital.fr/entreprises-marches/a-paris-on-peut-louer-une
 Use case à propos de la location de voiture via un système basé sur une
 blockchain. Visiblement cela permet de baisser les commissions des
 prestataires.   
-*Capital, 10/18, Français *
+*Capital, 10/18, Français*
 
  
 
@@ -472,4 +471,4 @@ Hotel](https://medium.com/blocsnews/btu-protocol-lovni-francais-de-la-blockchain
 Présentation du business model des plateformes de réservations en ligne comme
 Kayak ou Booking ; ainsi que la présentation du business model proposé par BTU
 Protocol avec 0% de commission.   
-*Medium Blocs News, 01/19, Français *
+*Medium Blocs News, 01/19, Français*
