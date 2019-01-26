@@ -406,7 +406,16 @@ utilisation quotidienne, des Token disponibles sur le contrat rattaché. 
 <https://eprint.iacr.org/2017/375.pdf> 
 
 Do you need a blockchain ? Papier très complet exposant les propriétés de la
-blockchain et de leurs utilisations dans un projet. 
+blockchain et de leurs utilisations dans un projet.
+
+ 
+
+[https://whattomine.com/](https://whattomine.com/)
+
+Si vous avez envie de vous lancer dans le minage de cryptomonnaies, ce site est
+pour vous. Il permet d’évaluer votre rentabilité dans les différentes
+cryptommonnaies en fonction de la puissance de calcul disponible pour cela.  
+*WhatToMine*
 
  
 
@@ -473,6 +482,21 @@ temps ?”. 
 
 Use cases 
 ==========
+
+Assurance
+---------
+
+[Fizzy, l'assurance de retard de
+vol](https://medium.com/@humanGamepad/fizzy-axa-smart-contract-explaind-740df52894fd)
+
+Explications techniques sur le fonctionnement de leur application de
+souscription à une assurance de retard de vols, et à sa mise à exécution. Le
+smart contract est décrit dans cet article, la partie serveur n’est pas
+réellement abordée et reste opaque. Adresse de l’application :
+[https://fizzy.axa/](https://fizzy.axa/fr/).  
+*Medium Alexandre Clément, 06/18, Anglais*
+
+ 
 
 Réservation 
 ------------
