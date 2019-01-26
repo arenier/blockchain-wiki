@@ -54,6 +54,18 @@ de décisions dans une communauté. 
 
  
 
+[Comment Bitcoin s'inscrit dans le système monétaire
+?​](https://medium.com/@gregguittard/un-sc%C3%A9nario-optimiste-pour-le-bitcoin-fdd8bc249e07)
+- [Version
+anglaise](https://medium.com/@vijayboyapati/the-bullish-case-for-bitcoin-part-1-of-4-94087a70d9e8)
+
+Articles en 4 partie sur l’histoire monétaire, l’échange de valeur ou encore les
+propriétés des monnaies. Un lien sur la partie suivante est disponible en fin
+d’article.  
+*Medium Greg Guittard, 03/18, Français - Medium Vijay Boyapati, 02/18, Anglais*
+
+ 
+
 Explications
 ------------
 
@@ -65,6 +77,16 @@ implémentés pour le déploiement de différentes blockchain. Les informations 
 propos de ces algorithmes contiennent : un résumé du fonctionnement, avantages,
 inconvénients.  
 *Cryptoast, 01/19, Français*
+
+ 
+
+[Vulgarisation technique de
+Bitcoin](https://medium.com/digitalassetresearch/a-guide-to-bitcoins-technical-brilliance-for-non-programmers-e28211e797c0)
+
+L’article est assez long mais aborde de nombreux aspects de Bitcoin : les
+noeuds, la cryptographie, les transactions ou encore la preuve de travail. Il
+s’agit ici d’un article de vulgarisation.  
+*Medium Digital Asset Research, 04/18, Anglais*
 
  
 
