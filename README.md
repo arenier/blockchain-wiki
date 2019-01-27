@@ -182,8 +182,21 @@ Développement 
 Bitcoin 
 --------
 
+[White Paper de
+Bitcoin](https://blog.octo.com/wp-content/uploads/2016/01/bitcoin_fr.pdf) -
+[Version anglaise](https://bitcoin.org/bitcoin.pdf)
+
+Un white paper est un recueil d'informations destiné à un public déterminé pour
+l'amener à prendre une décision sur un sujet particulie. (Wikipédia)  
+ici il y présente tous les aspects de Bitcoin et les différentes solutions aux
+problématiques monétaires et de tiers de confiance.
+
+*Satoshi Nakamoto, 01/08*
+
+ 
+
 [Histoire du Genesis
-Block](https://www.investopedia.com/terms/g/genesis-block.asp) 
+Block](https://www.investopedia.com/terms/g/genesis-block.asp)
 
 Mise en contexte du lancement de Bitcoin et du minage du premier bloc et de son
 message caché.   
@@ -388,7 +401,7 @@ blockchain et de leurs utilisations dans un projet.
 
  
 
-[https://whattomine.com/](https://whattomine.com/)
+<https://whattomine.com/>
 
 Si vous avez envie de vous lancer dans le minage de cryptomonnaies, ce site est
 pour vous. Il permet d’évaluer votre rentabilité dans les différentes
