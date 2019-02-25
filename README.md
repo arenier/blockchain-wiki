@@ -563,3 +563,19 @@ Présentation du business model des plateformes de réservations en ligne comme
 Kayak ou Booking ; ainsi que la présentation du business model proposé par BTU
 Protocol avec 0% de commission.   
 *Medium Blocs News, 01/19, Français*
+
+ 
+
+Identité digitale
+-----------------
+
+[https://blockchainatberkeley.blog/the-impact-of-digital-identity-9eed5b0c3016](L'impact
+de l'identité digitale)
+
+Présentation des problématiques de la gestion de l’identité des Humains mais
+aussi de leur droit à y accéder pour pouvoir profiter des services
+gouvernementaux notamment. Différents use cases sont présentés, même s’ils ont
+été mis en place par des gros organismes tels que des gouvernements ou des
+organismes inter-gouvernementaux, on a une idée de l’enjeu et de ce qui peut
+être mis en place dans de plus petites structures.  
+*Blockchain at Berkerley, 11/18, Anglais*
