@@ -54,8 +54,8 @@ de décisions dans une communauté. 
 
  
 
-[Comment Bitcoin s'inscrit dans le système monétaire
-?​](https://medium.com/@gregguittard/un-sc%C3%A9nario-optimiste-pour-le-bitcoin-fdd8bc249e07)
+[Comment Bitcoin s'inscrit dans le système
+monétaire](um.com/@gregguittard/un-sc%C3%A9nario-optimiste-pour-le-bitcoin-fdd8bc249e0)
 - [Version
 anglaise](https://medium.com/@vijayboyapati/the-bullish-case-for-bitcoin-part-1-of-4-94087a70d9e8)
 
@@ -176,6 +176,27 @@ blockchains publiques et privées. Il prend bien en compte le fait que les
 blockchain peuvent également être ouvertes ou fermées. Tout cela est une
 question de vision, d’objectifs et de use case.   
 *Medium Coin Monks, 12/18, Anglais*
+
+ 
+
+[Blockchain privée et bases de
+données](https://medium.com/blockchain-review/private-blockchain-or-database-whats-the-difference-523e7d42edc)
+
+Article abordant les aspects des bases de données partagées comparées aux
+blockchain privées. Il est considéré ici que les blockchains privées comportent
+un intérêt par rapport aux BDD partagées en terme de sécurité sur les
+validations des transactions.  
+*Medium Blockchain Review, 10/16, Anglais*
+
+ 
+
+[Raisons de préférer une blockchain privée à une base de données
+partagées](https://delegatecall.com/questions/what-are-the-benefits-of-using-a-private-blockchain-instead-of-a-bb1a9cd8-58f8-4e84-8c9c-6848a129fb7e)
+
+Suite à la question d’un utilisateur sur les avantages à utiliser une blockchain
+privée par rapport à une base de données partagée, d’autres utilisateurs lui ont
+donc présenté quelques raisons.  
+*Delegate Call, 07/18, Anglais*
 
  
 
@@ -371,8 +392,19 @@ propose des solutions pour pouvoir la respecter. 
 
  
 
-IOT 
-====
+IOT
+===
+
+[Analyse fondamentale IOTA Partie
+1](https://www.youtube.com/watch?v=CZvKo6FGom4) - [Partie
+2](https://www.youtube.com/watch?v=T276P4_2WpI) - [Partie
+3](https://www.youtube.com/watch?v=R6BOKXjnDeQ)
+
+Vidéo en 3 parties (environ 35min au total) présentant IOTA et le Tangle, une
+sorte de Distributed Layer Technology. La cryptomonnaie est contextualisée dans
+son ensemble en présentant la démarche des créateurs et de sur quoi ils
+s’appuient pour développer cette technologie.  
+*YouTube Journal du Coin, 01/19, Français*
 
 [Présentation de IOTA et
 de Tangle](https://medium.com/iota-et-tangle/presentation-iota-tangle-2d6e63e3a70) 
