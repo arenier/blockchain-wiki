@@ -55,7 +55,7 @@ de décisions dans une communauté. 
  
 
 [Comment Bitcoin s'inscrit dans le système
-monétaire](um.com/@gregguittard/un-sc%C3%A9nario-optimiste-pour-le-bitcoin-fdd8bc249e0)
+monétaire​](um.com/@gregguittard/un-sc%C3%A9nario-optimiste-pour-le-bitcoin-fdd8bc249e)
 - [Version
 anglaise](https://medium.com/@vijayboyapati/the-bullish-case-for-bitcoin-part-1-of-4-94087a70d9e8)
 
@@ -232,8 +232,7 @@ Bitcoin](https://blog.octo.com/wp-content/uploads/2016/01/bitcoin_fr.pdf) -
 Un white paper est un recueil d'informations destiné à un public déterminé pour
 l'amener à prendre une décision sur un sujet particulie. (Wikipédia)  
 ici il y présente tous les aspects de Bitcoin et les différentes solutions aux
-problématiques monétaires et de tiers de confiance.
-
+problématiques monétaires et de tiers de confiance.  
 *Satoshi Nakamoto, 01/08*
 
  
@@ -569,8 +568,8 @@ Protocol avec 0% de commission. 
 Identité digitale
 -----------------
 
-[https://blockchainatberkeley.blog/the-impact-of-digital-identity-9eed5b0c3016](L'impact
-de l'identité digitale)
+[L'impact de l'identité
+digitale](https://blockchainatberkeley.blog/the-impact-of-digital-identity-9eed5b0c3016)
 
 Présentation des problématiques de la gestion de l’identité des Humains mais
 aussi de leur droit à y accéder pour pouvoir profiter des services
